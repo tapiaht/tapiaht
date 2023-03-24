@@ -7,7 +7,9 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-007ACC.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/hiver-tapia-dominguez-94bb61237/)
 [![whatsapp](https://img.shields.io/badge/whatsapp-00F00.svg?style=for-the-badge&logo=whatsapp&logoColor=black)](https://wa.me/59172330319)
-
+  <a href="https://www.youtube.com/@hivertapiadominguez9712">
+    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube badge" />
+  </a>&nbsp;&nbsp;
 ## 🦾 Habilidades
 
 
