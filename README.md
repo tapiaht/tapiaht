@@ -48,10 +48,21 @@
 ## Mis repos
 ![](https://i.imgur.com/waxVImv.png)
 
+## Tecnologías:
+[![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)]()
+[![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)]()
+[![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)]()
+[![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)]()
+[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)]()
+[![C#](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)]()
+[![Xamarin](https://img.shields.io/badge/Xamarin-3498DB?style=for-the-badge&logo=xamarin&logoColor=white)]()
+[![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)]()
+[![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)]()
+
 ## 👀 Github stats
 
 ![Appithe's Stats](https://github-readme-stats.vercel.app/api?username=tapiaht&show_icons=true&theme=onedark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tapiaht&layout=compact&theme=onedark)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tapiaht&show_icons=true&theme=city_lights)](https://github.com/anuraghazra/github-readme-stats)
 
 **[Website](https://www.solidjs.com/) • [API Docs](https://www.solidjs.com/docs/latest/api) • [Features Tutorial](https://www.solidjs.com/tutorial/introduction_basics)
