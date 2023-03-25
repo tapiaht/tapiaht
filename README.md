@@ -1,4 +1,5 @@
-# Te saluda, Hiver Tapia ✔, bienvenido, me satisface todo comentario posible.
+<p align="center"><h1 align="center"> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="28px" alt="Hand GIF" /> Hi, I'm Hiver Tapia <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="28px" alt="Hand GIF" /> </h1></p>
+#✔ bienvenido, me satisface todo comentario posible.
 
 <h3>Estoy aprendiendo desarrollo web en la  Universidad Adventista de Bolivia y también buscando un empleo</h3>
 <br/>
