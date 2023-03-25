@@ -11,7 +11,7 @@
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube badge" />
   </a>&nbsp;&nbsp;
 ## 🦾 Habilidades
-
+![](https://i.imgur.com/waxVImv.png)
 
 ## 🌱 Aprendizaje continuo
 
@@ -24,9 +24,12 @@
 ![Figma](https://img.shields.io/badge/Figma-F24E1E.svg?style=for-the-badge&logo=Figma&logoColor=white)
 
 ## Mis repos
-
+![](https://i.imgur.com/waxVImv.png)
 
 ## 👀 Github stats
 
 ![Appithe's Stats](https://github-readme-stats.vercel.app/api?username=tapiaht&show_icons=true&theme=onedark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tapiaht&layout=compact&theme=onedark)
+
+
+**[Website](https://www.solidjs.com/) • [API Docs](https://www.solidjs.com/docs/latest/api) • [Features Tutorial](https://www.solidjs.com/tutorial/introduction_basics)
