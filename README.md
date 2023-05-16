@@ -47,7 +47,7 @@
 
 ## Mis repos
 ![](https://i.imgur.com/waxVImv.png)
-
+[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://expo.dev/artifacts/eas/6PQMvATuqpSpnGxEZ7rqrE.apk)
 ## 👀 Github stats
 
 ![Appithe's Stats](https://github-readme-stats.vercel.app/api?username=tapiaht&show_icons=true&theme=onedark)
