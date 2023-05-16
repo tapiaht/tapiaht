@@ -55,3 +55,4 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tapiaht&show_icons=true&theme=city_lights)](https://github.com/anuraghazra/github-readme-stats)
 **[Invitame un Caffe](https://www.buymeacoffee.com/hivertapiaN)
 **[Portafolio](https://tapiaht.github.io/portafoliohtd) 
+[BAGLES](https://github.com/Ileriayo/markdown-badges)
