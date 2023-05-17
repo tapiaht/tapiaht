@@ -47,7 +47,7 @@
 
 ## Mis repos
 ![](https://i.imgur.com/waxVImv.png)
-[![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://expo.dev/artifacts/eas/6PQMvATuqpSpnGxEZ7rqrE.apk)
+[![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://expo.dev/artifacts/eas/hHtc9hdiQL869pCnGoiYNX.apk)
 ## 👀 Github stats
 
 ![Appithe's Stats](https://github-readme-stats.vercel.app/api?username=tapiaht&show_icons=true&theme=onedark)
